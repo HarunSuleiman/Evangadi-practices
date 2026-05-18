@@ -1,0 +1,17 @@
+.container {
+  border: 1px;
+}
+
+.div {
+  border: 2px;
+}
+.green {
+  background-color: green;
+}
+.yellow {
+  background-color: yellow;
+}
+
+.blue {
+  background-color: blue;
+}

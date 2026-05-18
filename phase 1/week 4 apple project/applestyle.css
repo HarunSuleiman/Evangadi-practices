@@ -1,0 +1,278 @@
+body {
+  font-family: sans-serif;
+  font-size: 20px;
+  background-color: white;
+}
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+/*header**/
+* {
+  text-decoration: none;
+}
+header {
+  background-color: black;
+  padding: 10px;
+  width: 100%;
+}
+header a {
+  color: white;
+  text-decoration: none;
+}
+* {
+  padding: 0;
+  margin: 0;
+}
+.sec1 {
+  width: 980px;
+  margin: 0 auto;
+}
+header ul {
+  display: flex;
+  justify-content: space-between;
+}
+header ul li img {
+  width: 18px;
+}
+
+/*header1*/
+.header1 {
+  text-align: center;
+  padding-top: 20px;
+} /*header1*/
+.header1 {
+  text-align: center;
+  padding-top: 20px;
+  background-color: #fafafa;
+}
+.header1,
+h1,
+h2,
+h3 {
+  color: black;
+}
+.header1 h4 {
+  padding-top: 10px;
+}
+.header1 h4 a {
+  text-decoration: none;
+  color: rgb(31, 31, 214);
+}
+.header1 h1 {
+  padding: 10px 0px;
+  text-decoration: none;
+}
+.header1,
+h1,
+h2,
+h3 {
+  color: black;
+}
+.header1 h4 {
+  padding-top: 10px;
+}
+.header1 h4 a {
+  text-decoration: none;
+  color: rgb(31, 31, 214);
+  padding: 5px;
+}
+.header1 a:hover {
+  color: #d4c115;
+}
+.header1 h1 {
+  padding: 10px 0px;
+}
+/*header2*/
+.header2 {
+  text-align: center;
+  padding: 10px 0px;
+  background-color: rgb(8, 8, 8);
+  color: white;
+  font-size: larger;
+}
+.header2,
+.link1 a:hover {
+  color: #2e302c;
+}
+.header2,
+.link1 a {
+  color: blue;
+  font-size: larger;
+}
+.header2,
+.pro11 img {
+  max-width: 100%;
+}
+/*header3*/
+.header3 {
+  text-align: center;
+  background-color: #fafafa;
+}
+.header3,
+.link2 a {
+  font-size: larger;
+  color: blue;
+}
+
+.header3,
+.link2 a:hover {
+  color: #2e302c;
+}
+.header3,
+.i11 img {
+  max-width: 100%;
+}
+/*header4*/
+.header4 {
+  display: flex;
+  max-width: 100%;
+  background-color: #fafafa;
+  border-top: 11px;
+
+  border-style: solid;
+  border-color: white;
+  border-bottom: 11px;
+}
+.header4 img {
+  max-width: 100%;
+}
+.header4,
+.h41 {
+  border-style: solid;
+  border-color: white;
+  border-right: 11px;
+}
+/*header42*/
+.art {
+  max-width: 100%;
+  display: block;
+
+  margin-right: auto;
+  margin-left: auto;
+}
+.header42 img {
+  max-width: 100%;
+}
+
+.header42,
+.h422 h1 {
+  padding: 20px 0px 10px 0px;
+}
+.header42,
+.h421 {
+  width: 100%;
+  margin-left: px;
+
+  background-repeat: no-repeat;
+}
+.header42,
+.h422 {
+  width: 100%;
+  display: flex;
+}
+/*header5*/
+.header5 {
+  -webkit-box-pack: justify;
+  justify-content: space-between;
+  background: #fff;
+  max-width: 100%;
+}
+.header5,
+.art1 {
+  background-image: url("./images/home/apple-tv-background.jpg");
+  width: 100%;
+}
+.header5,
+.art3 {
+  color: #fff;
+  background-size: initial;
+  background-color: #000;
+  width: 100%;
+}
+/*header6*/
+.header6 {
+  display: flex;
+  max-width: 100%;
+  padding-top: 30px;
+}
+.header6 img {
+  max-width: 100%;
+}
+
+/*footer*/
+.footerP {
+  padding: 17px 0px 20px;
+  background-color: #fafafa;
+  border-bottom: 1px solid;
+  padding-left: 200px;
+  text-decoration: none;
+}
+.footerP a {
+  text-decoration: none;
+}
+.footerP a:hover {
+  text-decoration: underline;
+}
+.footer a {
+  color: blue;
+}
+.footer {
+  background-color: #fafafa;
+  padding-left: 200px;
+  display: flex;
+  justify-content: space-between;
+  padding-top: 20px;
+  -webkit-box-pack: justify;
+}
+.footer ul li {
+  list-style: none;
+  padding: 5px 0px;
+  font-size: 0.9em;
+}
+.footer ul li a {
+  text-decoration: none;
+}
+.footer a {
+  color: #515154;
+}
+.footer a:hover {
+  text-decoration: underline;
+  color: blue;
+}
+.bottom1 {
+  padding: 10px 0px 20px 200px;
+  background-color: #fafafa;
+}
+
+.bottom2 {
+  display: flex;
+  background-color: #fafafa;
+}
+
+.bottom2,
+.links ul li {
+  list-style: none;
+  padding: 0px 7px 40px 7px;
+}
+.bottom2,
+.links ul {
+  display: flex;
+}
+.bottom2,
+.copyright {
+  padding-left: 100px;
+}
+.bottom2,
+.img {
+  padding-left: 100px;
+}
+.bottom2,
+.links ul li a {
+  text-decoration: none;
+  color: rgb(60, 179, 179);
+}
+.bottom2 a:hover {
+  text-decoration: underline;
+}
