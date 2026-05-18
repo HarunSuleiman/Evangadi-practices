@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Communicat with the backend</title>
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <div class="header-button">
+      <button id="new" class="new">New</button>
+      <button
+        id="list"
+        type="button"
+        class="list"
+        onclick="displayForm('list','new','edit','delete')"
+      >
+        List
+      </button>
+      <button
+        type="button"
+        class="edit"
+        onclick="displayForm('edit','new','delete','list')"
+      >
+        Edit
+      </button>
+      <button
+        type="button"
+        class="delete"
+        onclick="displayForm('delete','edit','new','list')"
+      >
+        Delete
+      </button>
+    </div>
+    <section class="form">
+      <h1>Insert Customer info</h1>
+      <form
+        action="http://localhost:3001/insert-customers-info"
+        method="post"
+        style="zoom: 200%"
+        id="newForm"
+      >
+        <label for="name">Name:</label><br />
+        <input type="text" name="name" /><br /><br />
+        <label for="address">Address:</label><br />
+        <input type="text" name="address" /><br /><br />
+        <label for="company">Company:</label><br />
+        <input type="text" name="company" /><br /><br />
+        <button type="submit" class="btn btn-dark" id="newFormBtn">
+          Submit info
+        </button>
+      </form>
+    </section>
+    <section
+      id="data"
+      class="my-3 container list"
+      style="display: none"
+    ></section>
+    <script src="./script.js"></script>
+  </body>
+</html>

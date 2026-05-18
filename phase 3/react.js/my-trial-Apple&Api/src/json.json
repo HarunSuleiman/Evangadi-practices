@@ -1,0 +1,182 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "eNjAl-crXJ9sdLSc2EdaxwtbFz0",
+  "nextPageToken": "CAUQAA",
+  "regionCode": "ET",
+  "pageInfo": {
+    "totalResults": 263,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UmfP7ZMsPwftgwG00Y1Rd8VxgSk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9A9XYerlCyQ"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-09T18:46:18Z",
+        "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+        "title": "Wanna see something gorgeous? #Shorts",
+        "description": "Apple's new look is coming soon. Learn more at www.apple.com/os. Audio Descriptions: https://apple.co/45MsrtK “Only You” by ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9A9XYerlCyQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9A9XYerlCyQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9A9XYerlCyQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Apple",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-09T18:46:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zPfwLG3LZ-Ps33P1ttPZwf_nYMI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cwZsHxLLlZ0"
+      },
+      "snippet": {
+        "publishedAt": "2024-10-29T15:25:33Z",
+        "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+        "title": "Introducing the all-new Mac mini | Apple | #Shorts",
+        "description": "The all-new Mac mini is five by five inches of pure power and purpose. With a wide array of ports, now on the front and back.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cwZsHxLLlZ0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cwZsHxLLlZ0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cwZsHxLLlZ0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Apple",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-10-29T15:25:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vxlBthFNyIPwmDfbwrtJxo6jVGI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ChA6jxuUU3s"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-09T18:51:18Z",
+        "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+        "title": "Big things coming to iPad. #Shorts",
+        "description": "This fall, you'll be able to multitask with a ton of windows, access files from your Dock, navigate with a menu bar, and do so much ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ChA6jxuUU3s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ChA6jxuUU3s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ChA6jxuUU3s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Apple",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-09T18:51:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ez9DffWHodUYcMpVxIM0HxO4nb4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XdQClBgXjmk"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-10T15:51:30Z",
+        "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+        "title": "Take a poll, split the bill in Messages. #Shorts",
+        "description": "No friendship breakups over here. This fall, you'll be able to take polls in your group chats in Messages and split bills with your ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XdQClBgXjmk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XdQClBgXjmk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XdQClBgXjmk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Apple",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-10T15:51:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LlKLrafRxR0-rK8itNiqr4SuQ2Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_wvUQh5Svq8"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-19T16:55:54Z",
+        "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+        "title": "Battery life on iPhone 16e. Latest iPhone. Greatest price. #Shorts",
+        "description": "The new iPhone 16e has supersized battery life, including up to 26 hours of video playback. So you'll have more time to text, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_wvUQh5Svq8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_wvUQh5Svq8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_wvUQh5Svq8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Apple",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-19T16:55:54Z"
+      }
+    }
+  ]
+}

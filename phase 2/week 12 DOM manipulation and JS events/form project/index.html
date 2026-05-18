@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=" />
+    <title>Form Example with events</title>
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <h2 id="h1">Form validation</h2>
+    <h3>Registration Foarm</h3>
+    <div id="ddd">
+      <form action="#" id="FormID" method="post">
+        <p>Firist name</p>
+        <input
+          type="text"
+          id="fname"
+          name="first name"
+          placeholder="Enter First name"
+        /><br />
+        <p>Last name</p>
+        <input
+          type="text"
+          id="lname"
+          name="last name"
+          placeholder=" Enter Last name"
+        /><br />
+        <p>Password</p>
+        <input
+          type="text"
+          id="password"
+          name="password"
+          placeholder="Enter password"
+        /><br /><br />
+
+        <button
+          class="submition button"
+          type="submit"
+          style="margin-left: 120px"
+        >
+          submit
+        </button>
+      </form>
+    </div>
+    <script src="./jquery-3.7.1.js"></script>
+
+    <script src="./script.js"></script>
+  </body>
+</html>
+<!-- <!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Registration Form</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        margin: 40px;
+      }
+      form {
+        max-width: 400px;
+        margin: auto;
+      }
+      input,
+      button {
+        display: block;
+        width: 100%;
+        margin: 10px 0;
+        padding: 8px;
+        font-size: 16px;
+      }
+      .success {
+        color: green;
+        margin-top: 10px;
+        text-align: center;
+      }
+    </style>
+  </head>
+  <body>
+    <h2>Register Here</h2>
+
+    <form id="registrationForm">
+      <input type="text" id="name" placeholder="Full Name" required />
+      <input type="email" id="email" placeholder="Email Address" required />
+      <input type="password" id="password" placeholder="Password" required />
+      <button type="submit">Register</button>
+    </form>
+
+    <div id="message" class="success"></div>
+
+    <script>
+      // Select the form
+      const form = document.getElementById("registrationForm");
+      const messageDiv = document.getElementById("message");
+
+      // Add event listener
+      form.addEventListener("submit", function (event) {
+        event.preventDefault(); // Prevent form from submitting normally
+
+        // Get form values
+        const name = document.getElementById("name").value;
+        const email = document.getElementById("email").value;
+        const password = document.getElementById("password").value;
+
+        // Simple validation (you can extend this)
+        if (name === "" || email === "" || password === "") {
+          messageDiv.textContent = "Please fill in all fields.";
+          messageDiv.style.color = "red";
+          return;
+        }
+
+        // Normally, you'd send this data to a server here
+        console.log("User Registered:", { name, email, password });
+
+        // Show success message
+        messageDiv.textContent = `Registration successful! Welcome, ${name}.`;
+        messageDiv.style.color = "green";
+
+        // Optionally reset the form
+        form.reset();
+      });
+    </script>
+    <script src="./script.js"></script>
+  </body>
+</html> -->

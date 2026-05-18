@@ -1,0 +1,39 @@
+.header-button {
+  margin: auto;
+}
+.new {
+  background-color: rgb(18, 199, 18);
+  margin-left: 20px;
+  margin-right: 100px;
+  border: none;
+  border-radius: 5px;
+  width: 60px;
+  height: 25px;
+  font-size: larger;
+}
+.list {
+  background-color: rgb(98, 98, 227);
+  margin-right: 100px;
+  border: none;
+  border-radius: 5px;
+  width: 60px;
+  height: 25px;
+  font-size: larger;
+}
+.edit {
+  background-color: yellow;
+  margin-right: 100px;
+  border: none;
+  border-radius: 5px;
+  width: 60px;
+  height: 25px;
+  font-size: larger;
+}
+.delete {
+  background-color: rgb(207, 65, 65);
+  border: none;
+  border-radius: 5px;
+  width: 70px;
+  height: 25px;
+  font-size: larger;
+}

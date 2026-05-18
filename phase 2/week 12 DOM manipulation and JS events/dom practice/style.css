@@ -1,0 +1,38 @@
+body {
+  background-color: aqua;
+}
+h1 {
+  background-color: blue;
+  height: 60px;
+}
+.red {
+  background-color: rgb(11, 182, 11);
+}
+.yellow {
+  background-color: red;
+}
+.keyi {
+  background-color: blue;
+}
+.green {
+  background-color: #720e0e;
+}
+#five {
+  background-color: #926060;
+}
+.areguade {
+  background-color: rgb(36, 8, 80);
+}
+.bicha {
+  background-color: rgb(224, 245, 34);
+}
+ul,
+li {
+  height: 60px;
+  font-size: 30px;
+  width: 500px;
+  list-style: none;
+}
+.append {
+  background-color: magenta;
+}
